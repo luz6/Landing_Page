@@ -1,9 +1,9 @@
 ---
 layout: posts
-permalink: /machine-learning/
-title: "Machine Learning Posts by Tags"
+permalink: /JDACS4C-Learning/
+title: "Explore JDACS4C Pilots Repositories"
 author_profile: true
 header:
-  image: "/images/fort point.png"
+  image: "/images/ATRF.png"
 ---
 
