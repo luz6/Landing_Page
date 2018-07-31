@@ -84,8 +84,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhengwu Lu"
-  avatar           : "/images/bio-pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "HPC Data Science Team"
+  avatar           : "/images/JDACS4C-Image.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "JDACS4C Data Science Portfolio"
   location         : "Rockville, MD 20850"
   email            :

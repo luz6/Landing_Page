@@ -2,9 +2,11 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/zakim.jpg"
+  image: "/images/Predictive-Modeling-and-Simulation.png"
 ---
 
-I'm a senior data scientist who excels at machine learning, exploratory analysis, and data visualizations.
+This is the public facing repositories of program/project output, generated from the pilot collaborative program “Joint Design of Advanced Computing Solutions for Cancer (JDACS4C)” by the National Cancer Institute (NCI) and the Department of Energy (DOE). Investigators from NCI and the Frederick National Laboratory for Cancer Research have been working collaboratively with experts in computational, data, and physical sciences from various national laboratories maintained by the DOE: principally Argonne, Los Alamos, Lawrence Livermore, and Oak Ridge. Their main goal is to collaboratively develop, demonstrate, and disseminate advanced computational capabilities to seek answers to driving scientific questions that increase our understanding of cancer biology, risk identification, pre-clinical screening, and treatment challenges.
 
-Etc, etc, etc
+The primary goal of JDACS4C is to attain a greater understanding of cancer biology, diagnostics, prognostics, and treatment, utilizing increasingly available large-scale multimodal data analysis combined with advanced computational methods and algorithms targeting exascale computing technologies. These methods include data wrangling and mining, natural-language processing, machine or deep learning, predictive modeling, simulation, and uncertainty quantification as well as other means of ensuring reproducibility, all of which will lead to the formulation of better risk assessment and treatments for cancer patients and improvements in clinicians’ ability to make the best possible treatment decisions. In short, the program’s goal is to transform predictive oncology into a reality for everyone at risk of or experiencing any form of the disease.
+
+*This work has been supported in part by the Joint Design of Advanced Computing Solutions for Cancer (JDACS4C) program established by the U.S. Department of Energy (DOE) and the National Cancer Institute (NCI) of the National Institutes of Health.  This work was performed under the auspices of the U.S. Department of Energy by Argonne National Laboratory under Contract DE-AC02-06-CH11357, Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344, Los Alamos National Laboratory under Contract DE-AC5206NA25396, and Oak Ridge National Laboratory under Contract DE-AC05-00OR22725. LLNL-MI-751204*
